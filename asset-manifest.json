@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/smile-fokus-test/static/css/main.da766952.chunk.css",
+    "main.js": "/smile-fokus-test/static/js/main.26053080.chunk.js",
+    "main.js.map": "/smile-fokus-test/static/js/main.26053080.chunk.js.map",
+    "runtime-main.js": "/smile-fokus-test/static/js/runtime-main.32a54f34.js",
+    "runtime-main.js.map": "/smile-fokus-test/static/js/runtime-main.32a54f34.js.map",
+    "static/css/2.cc6972a9.chunk.css": "/smile-fokus-test/static/css/2.cc6972a9.chunk.css",
+    "static/js/2.da62963b.chunk.js": "/smile-fokus-test/static/js/2.da62963b.chunk.js",
+    "static/js/2.da62963b.chunk.js.map": "/smile-fokus-test/static/js/2.da62963b.chunk.js.map",
+    "static/js/3.f4575e23.chunk.js": "/smile-fokus-test/static/js/3.f4575e23.chunk.js",
+    "static/js/3.f4575e23.chunk.js.map": "/smile-fokus-test/static/js/3.f4575e23.chunk.js.map",
+    "index.html": "/smile-fokus-test/index.html",
+    "static/css/2.cc6972a9.chunk.css.map": "/smile-fokus-test/static/css/2.cc6972a9.chunk.css.map",
+    "static/css/main.da766952.chunk.css.map": "/smile-fokus-test/static/css/main.da766952.chunk.css.map",
+    "static/js/2.da62963b.chunk.js.LICENSE.txt": "/smile-fokus-test/static/js/2.da62963b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32a54f34.js",
+    "static/css/2.cc6972a9.chunk.css",
+    "static/js/2.da62963b.chunk.js",
+    "static/css/main.da766952.chunk.css",
+    "static/js/main.26053080.chunk.js"
+  ]
+}
